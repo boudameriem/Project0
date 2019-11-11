@@ -14,10 +14,6 @@ body {
         width: 320px;
     }
 
-    div im{
-      width:220px;
-    }
-
     .container  img:hover{
     border-radius : 8px;
 	box-shadow : 8px 8px 8px #ffffff;
